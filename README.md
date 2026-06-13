@@ -6,5 +6,5 @@
 🖼️ [Gallery Grid](https://espy.world/gallery-grid) - indie web gallery creation resource  
 🌈 [QTPOC Ring](https://qtpoc-ring.netlify.app/) - webring for queer & trans people of color
 
-📖 Subscribe to my [feed](https://espy.world/feed.xml)  
+📖 Subscribe to my [feed](https://espy.world/log)  
 ✏️ Sign my [guestbook](https://espy.world/guestbook)
