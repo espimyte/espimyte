@@ -1,4 +1,4 @@
-[![espy-world](https://github.com/espimyte/espimyte/blob/main/button.png)](https://espy.world)
+<img style="image-rendering: pixelated" src="https://github.com/espimyte/espimyte/blob/main/button.png"/>
 
 👁️ [EYECRYPT](https://espy.world/eyecrypt) - visualize encryption in images  
 🖼️ [Gallery Grid](https://espy.world/gallery-grid) - indie web gallery creation resource  
